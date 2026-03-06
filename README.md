@@ -89,6 +89,4 @@ selenium-hubspot-testing/
 
 ---
 
-## Author
 
-**Md Shahabaz**
